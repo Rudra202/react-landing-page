@@ -53,7 +53,6 @@ npm install
 npm install
 
 
-<img width="2048" height="1067" alt="Screenshot 2026-01-29 at 11 14 08 AM" src="https://github.com/user-attachments/assets/6f6dc702-65c7-4344-ba68-23900a15a620" />
 
 
 🙌 Author
@@ -75,3 +74,4 @@ This project is open source and available under the MIT License.
 git add README.md
 git commit -m "Add README file"
 git push origin main
+
